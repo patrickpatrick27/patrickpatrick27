@@ -15,18 +15,22 @@
 
 ---
 
-### Featured Ventures & Systems
+### Ventures & Commercial Systems
 
 * **[Aqualink](https://davepatrickbulaso.vercel.app)** &nbsp;`Production SaaS`
-  Multi-tenant delivery management and logistics platform built for commercial water refilling stations. Features real-time route assignment, automated accounting, customer ledger tracking, and driver mobile apps.
+  Multi-tenant delivery management and logistics platform for water refilling networks. Features real-time driver route assignment, customer account ledgers, and automated financial reporting.
   *Flutter, Riverpod, Supabase, PostgreSQL, Next.js*
 
+* **Healthcare Practice & Clinical Dashboard** &nbsp;`Client Architecture`
+  Custom management platform and automated operational workflow system engineered for a UK-based speech and language therapy clinic.
+  *Next.js, Supabase RLS, PostgreSQL, Automated Webhook Pipelines*
+
 * **[Pinpoint](https://pinpoint-tau.vercel.app)** &nbsp;`Live Platform`
-  Real-time geolocation sharing and tracking web application enabling instant live room sessions and accurate multi-device coordinate streaming.
+  Real-time geolocation sharing and tracking web application enabling instant room sessions and multi-device coordinate streaming.
   *Next.js, React, Supabase Realtime, Tailwind CSS*
 
-* **Autonomous 24/7 Agent Systems** &nbsp;`Infrastructure`
-  Self-hosted background daemons and intelligence pipelines bridging mobile Telegram chat interfaces to headless AI CLI runners with automated tool execution and health monitoring.
+* **Autonomous 24/7 Agent Systems** &nbsp;`Linux Infrastructure`
+  Self-hosted background daemons and intelligence pipelines bridging mobile Telegram chat interfaces to headless AI CLI execution with persistent state and automated process recovery.
   *Python, systemd, Linux, Telegram Bot API*
 
 ---
@@ -34,13 +38,13 @@
 ### Open Source & Public Projects
 
 * **[NAP Finder](https://github.com/patrickpatrick27/NAP-Finder)** &nbsp;`Flutter / GIS`
-  Offline-first geospatial mapping tool built for field telecom technicians to locate and navigate Network Access Points with zero-maintenance Google Sheets sync and local map tile caching.
+  Offline-first geospatial mapping app built for telecom field technicians to navigate Network Access Points with zero-maintenance Google Sheets sync and local map tile caching.
 
 * **[Kaong Monitor](https://github.com/patrickpatrick27/Kaong-Monitor)** &nbsp;`IoT / Flutter`
-  Real-time telemetry monitoring dashboard for automated fermentation systems with live sensor telemetry visualization and OTA firmware distribution via GitHub Releases.
+  Real-time telemetry monitoring dashboard for automated fermentation systems with live sensor charts and custom GitHub Releases OTA firmware distribution.
 
 * **[Pay Tracker](https://github.com/patrickpatrick27/Pay-Tracker)** &nbsp;`Mobile / Privacy`
-  Privacy-first earnings calculation app with 30-minute shift rounding rules, automatic break deductions, and direct user-owned Google Drive cloud backup.
+  Privacy-first earnings tracker with 30-minute shift rounding rules, automatic break deductions, and direct user-owned Google Drive cloud backup.
 
 * **[Facial Attendance System](https://github.com/patrickpatrick27/CPEN135-Student-Attendance)** &nbsp;`Python / Embedded`
   Biometric attendance platform integrating real-time ESP32 camera stream recognition with automated attendance logging.
