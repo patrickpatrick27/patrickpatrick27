@@ -1,33 +1,55 @@
+<div align="center">
+
 # Dave Patrick Bulaso
+**Full-Stack & Mobile Systems Engineer** &nbsp;•&nbsp; Cavite, Philippines
 
-Software engineer and computer engineering student based in Cavite, Philippines. I focus on cross-platform mobile applications, full-stack web platforms, IoT telemetry, and autonomous automation pipelines.
+[Portfolio](https://davepatrickbulaso.vercel.app) &nbsp;•&nbsp; [LinkedIn](https://linkedin.com/in/davepatrickbulaso) &nbsp;•&nbsp; [Email](mailto:davepatrickbulaso@gmail.com)
 
-[Portfolio](https://davepatrickbulaso.vercel.app) &nbsp;·&nbsp; [Email](mailto:davepatrickbulaso@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/davepatrickbulaso)
+<br/>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,typescript,tailwind,nodejs,python,fastapi,postgres,supabase,linux,docker,git&perline=14&theme=dark" alt="Tech Stack" />
+</p>
 
-### Selected Public Work
-
-* **[NAP Finder](https://github.com/patrickpatrick27/NAP-Finder)**
-  Offline-first GIS navigation app built for field technicians to map and locate Network Access Points in low-connectivity areas.
-  *Flutter, Map Tile Caching, Serverless Sheets Sync*
-
-* **[Kaong Monitor](https://github.com/patrickpatrick27/Kaong-Monitor)**
-  Real-time telemetry monitoring dashboard for automated fermentation systems with live sensor charts and custom GitHub Releases OTA deployment.
-  *Flutter, Firebase Realtime Database, ESP32, OTA Pipeline*
-
-* **[Pay Tracker](https://github.com/patrickpatrick27/Pay-Tracker)**
-  Privacy-first earnings tracker that automates shift rounding rules and break deductions, backed up directly to user-owned Google Drive storage.
-  *Flutter, Dart, Google Drive API*
-
-* **[Student Attendance via Facial Recognition](https://github.com/patrickpatrick27/CPEN135-Student-Attendance)**
-  Biometric attendance tracking system processing live ESP32 camera streams with automated record logging.
-  *Python, Flask, OpenCV, ESP32*
+</div>
 
 ---
 
-### Core Stack
+### Featured Ventures & Systems
 
-* **Frontend & Mobile:** Flutter (Riverpod, Freezed), Next.js, React, TypeScript, Tailwind CSS
-* **Backend & Cloud:** Node.js, Python (FastAPI, Flask), PostgreSQL, Supabase, Firebase
-* **Systems & Infrastructure:** Linux (Debian/Ubuntu), Docker, systemd daemons, Git, ESP32 IoT
+* **[Aqualink](https://davepatrickbulaso.vercel.app)** &nbsp;`Production SaaS`
+  Multi-tenant delivery management and logistics platform built for commercial water refilling stations. Features real-time route assignment, automated accounting, customer ledger tracking, and driver mobile apps.
+  *Flutter, Riverpod, Supabase, PostgreSQL, Next.js*
+
+* **[Pinpoint](https://pinpoint-tau.vercel.app)** &nbsp;`Live Platform`
+  Real-time geolocation sharing and tracking web application enabling instant live room sessions and accurate multi-device coordinate streaming.
+  *Next.js, React, Supabase Realtime, Tailwind CSS*
+
+* **Autonomous 24/7 Agent Systems** &nbsp;`Infrastructure`
+  Self-hosted background daemons and intelligence pipelines bridging mobile Telegram chat interfaces to headless AI CLI runners with automated tool execution and health monitoring.
+  *Python, systemd, Linux, Telegram Bot API*
+
+---
+
+### Open Source & Public Projects
+
+* **[NAP Finder](https://github.com/patrickpatrick27/NAP-Finder)** &nbsp;`Flutter / GIS`
+  Offline-first geospatial mapping tool built for field telecom technicians to locate and navigate Network Access Points with zero-maintenance Google Sheets sync and local map tile caching.
+
+* **[Kaong Monitor](https://github.com/patrickpatrick27/Kaong-Monitor)** &nbsp;`IoT / Flutter`
+  Real-time telemetry monitoring dashboard for automated fermentation systems with live sensor telemetry visualization and OTA firmware distribution via GitHub Releases.
+
+* **[Pay Tracker](https://github.com/patrickpatrick27/Pay-Tracker)** &nbsp;`Mobile / Privacy`
+  Privacy-first earnings calculation app with 30-minute shift rounding rules, automatic break deductions, and direct user-owned Google Drive cloud backup.
+
+* **[Facial Attendance System](https://github.com/patrickpatrick27/CPEN135-Student-Attendance)** &nbsp;`Python / Embedded`
+  Biometric attendance platform integrating real-time ESP32 camera stream recognition with automated attendance logging.
+
+---
+
+### GitHub Overview
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=patrickpatrick27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=patrickpatrick27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+</div>
