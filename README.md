@@ -5,7 +5,7 @@
 
 Building production SaaS, AI-driven automation pipelines, cross-platform mobile apps, and embedded IoT systems.
 
-[Portfolio](https://davepatrickbulaso.vercel.app) &nbsp;•&nbsp; [LinkedIn](https://linkedin.com/in/davepatrickbulaso) &nbsp;•&nbsp; [Email](mailto:davepatrickbulaso@gmail.com)
+[Resume (PDF)](https://github.com/patrickpatrick27/patrickpatrick27/blob/main/Dave_Patrick_Bulaso_Official_Resume.pdf) &nbsp;•&nbsp; [Portfolio](https://davepatrickbulaso.vercel.app) &nbsp;•&nbsp; [LinkedIn](https://linkedin.com/in/davepatrickbulaso) &nbsp;•&nbsp; [Email](mailto:davepatrickbulaso@gmail.com)
 
 <br/>
 
@@ -36,6 +36,10 @@ Building production SaaS, AI-driven automation pipelines, cross-platform mobile 
 * **Unlocking Language** &nbsp;`UK Speech Therapy Platform`
   Business intelligence dashboard and automated appointment scheduling engine. Engineered a nightly ETL data sync processing 21,000+ patient and therapist session records from the Ninox API with volume-guarded pruning and idempotent upserts.
   *Next.js, TypeScript, Supabase, Ninox API, Make.com, Dedicated Server*
+
+* **10Q Holdings & Wiser Finance** &nbsp;`Operations & Financial Platform`
+  Technical Automation Engineer & Operations Lead. Built internal CRUD operations tool (`10q-dashboard.vercel.app`) and financial workflow dashboard for multi-company lead management and QuickBooks/Gmail AR/AP operations. Built Google Gemini research pipelines and managed dedicated Ubuntu server infrastructure.
+  *Next.js, TypeScript, Supabase, Google Gemini API, Ubuntu Linux, Tailscale*
 
 * **Agency Builder Pro** &nbsp;`Email Bison Monitor`
   Multi-client email campaign performance dashboard integrating the Email Bison API for automated 6-hour metric synchronization, daily trend charts, and campaign-level KPI tracking.
