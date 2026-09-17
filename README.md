@@ -37,9 +37,13 @@ Building production SaaS, AI-driven automation pipelines, cross-platform mobile 
   Business intelligence dashboard and automated appointment scheduling engine. Engineered a nightly ETL data sync processing 21,000+ patient and therapist session records from the Ninox API with volume-guarded pruning and idempotent upserts.
   *Next.js, TypeScript, Supabase, Ninox API, Make.com, Dedicated Server*
 
-* **10Q Holdings & Wiser Finance** &nbsp;`Operations & Financial Platform`
-  Technical Automation Engineer & Operations Lead. Built internal CRUD operations tool (`10q-dashboard.vercel.app`) and financial workflow dashboard for multi-company lead management and QuickBooks/Gmail AR/AP operations. Built Google Gemini research pipelines and managed dedicated Ubuntu server infrastructure.
+* **10Q Holdings** &nbsp;`Operations & Research Lead`
+  Technical Automation Engineer & Operations Lead. Built internal CRUD operations tool (`10q-dashboard.vercel.app`) to replace spreadsheet workflows for multi-company lead management. Engineered automated employer branding research pipelines with Google Gemini (50+ verified profiles/day) and managed dedicated Ubuntu server infrastructure.
   *Next.js, TypeScript, Supabase, Google Gemini API, Ubuntu Linux, Tailscale*
+
+* **Wiser** &nbsp;`Financial Operations Platform`
+  Engineered financial workflow and operations dashboard integrating QuickBooks and Gmail APIs for automated accounts receivable / accounts payable (AR/AP) transaction reconciliation and cash flow monitoring.
+  *Next.js, TypeScript, Supabase, QuickBooks API, REST APIs*
 
 * **Agency Builder Pro** &nbsp;`Email Bison Monitor`
   Multi-client email campaign performance dashboard integrating the Email Bison API for automated 6-hour metric synchronization, daily trend charts, and campaign-level KPI tracking.
